@@ -1,8 +1,8 @@
 # Otis Joseph
 
-AWS-certified cloud portfolio focused on healthcare cloud, cloud operations, data analysis, and secure architecture design.
+AWS-certified cloud portfolio focused on healthcare cloud, cloud operations, data analysis, secure architecture design, and cost-aware AWS decision-making.
 
-I am building a portfolio around cloud-adjacent healthcare use cases, including secure AWS networking, healthcare claims analytics, cost-aware architecture, operational monitoring, and infrastructure fundamentals.
+I am building a portfolio around cloud-adjacent healthcare use cases, including secure AWS networking, healthcare claims analytics, cloud cost optimization, operational monitoring, and architecture tradeoff analysis.
 
 ## Focus Areas
 
@@ -12,7 +12,8 @@ I am building a portfolio around cloud-adjacent healthcare use cases, including 
 - Data analysis and claims workflows
 - Cloud cost optimization
 - Monitoring and operational visibility
-- Infrastructure as Code fundamentals
+- SQL-based analysis
+- Architecture documentation and tradeoff analysis
 
 ## Certifications
 
@@ -22,16 +23,18 @@ I am building a portfolio around cloud-adjacent healthcare use cases, including 
 
 ## Featured Projects
 
-### AWS Architecture Portfolio
+### Secure VPC Architecture on AWS
 
-Architecture-focused AWS portfolio demonstrating secure, resilient, and cost-aware cloud design patterns.
+Secure multi-AZ AWS VPC reference architecture focused on subnet segmentation, controlled administrative access, high availability, monitoring, and failure scenario analysis.
 
 Key areas:
 
-- Secure multi-AZ VPC design
-- Public, private application, and database subnet separation
-- Systems Manager Session Manager access model
-- Security, availability, monitoring, and cost tradeoffs
+- Public, private application, and private database subnet design
+- NAT Gateway routing and cost tradeoffs
+- AWS Systems Manager Session Manager access model
+- Security group boundaries and route table controls
+- Availability Zone failure planning
+- Operational monitoring considerations
 
 ### Healthcare Claims Data Pipeline on AWS
 
@@ -45,22 +48,25 @@ Key areas:
 - Amazon Athena SQL analysis
 - CloudWatch monitoring considerations
 - Synthetic claims data and SQL examples
+- Healthcare operations use-case framing
 
-### Terraform AWS VPC Lab
+### Cloud Cost Optimization / FinOps Case Study
 
-Infrastructure-as-Code lab for AWS VPC fundamentals using Terraform.
+AWS cloud cost optimization case study using synthetic spend data, SQL analysis, right-sizing recommendations, storage lifecycle planning, monitoring review, and business-facing FinOps tradeoff analysis.
 
 Key areas:
 
-- VPC design
-- Public and private subnet planning
-- Route table concepts
-- AWS infrastructure provisioning fundamentals
+- EC2 right-sizing and non-production scheduling
+- S3 lifecycle policy recommendations
+- CloudWatch log retention review
+- Athena scan-cost reduction
+- NAT Gateway traffic review
+- Executive summary and tradeoff analysis
 
 ## Current Direction
 
-I am targeting cloud-adjacent roles where healthcare operations experience, data analysis, AWS certifications, and architecture portfolio work can translate into cloud operations, cloud analyst, technical business analyst, junior cloud engineer, or associate solutions architecture opportunities.
+I am targeting cloud-adjacent roles where healthcare operations experience, data analysis, AWS certifications, and architecture portfolio work can translate into cloud operations, cloud analyst, technical business analyst, junior cloud engineer, FinOps analyst, or associate solutions architecture opportunities.
 
 ## Note
 
-Portfolio projects use synthetic or sample data only. No real patient, member, provider, payment, or protected health information is included.
+Portfolio projects use synthetic or sample data only. No real patient, member, provider, payment, billing, company, or protected health information is included.
