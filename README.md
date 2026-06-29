@@ -17,6 +17,7 @@ I am building a portfolio around cloud-adjacent healthcare use cases, including 
 
 ## Certifications
 
+- AWS Cloud Institute, Cloud Application Developer Certificate of Completion
 - AWS Certified Solutions Architect - Associate
 - AWS Certified Cloud Practitioner
 - AWS Certified AI Practitioner
